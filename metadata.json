@@ -1,0 +1,6 @@
+{
+  "name": "MuseAI",
+  "description": "An AI-powered music generation studio that creates complex MIDI sequences using Gemini. Compose in different styles, play back using high-quality synthesis, and export your MIDI creations.",
+  "requestFramePermissions": ["midi"],
+  "majorCapabilities": []
+}
